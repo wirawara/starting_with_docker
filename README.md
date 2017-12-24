@@ -7,13 +7,13 @@
 3. [awesome tutorial for Docker](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
 
 
-Dockerfile
+### Dockerfile
 =============
 
 #### CMD
 
 
-Building the image
+### Building the image
 ===================
 
 
